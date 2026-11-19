@@ -1,0 +1,20 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "events": "^3.3.0",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2",
+    "socket.io": "^4.8.4"
+  }
+}
